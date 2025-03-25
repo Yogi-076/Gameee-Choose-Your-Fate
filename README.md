@@ -153,6 +153,10 @@ The final answer obtained is:
 ```
 shaktiman
 ```
+## FInal Outpue
+'''
+![Image](https://github.com/user-attachments/assets/aed5d0de-1a52-4179-b8b6-a39b8a430b04)
+'''
 
 The final flag is:
 
