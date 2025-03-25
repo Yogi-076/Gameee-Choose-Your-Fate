@@ -1,6 +1,6 @@
 # Gameee - Choose Your Fate
 
-![Cover Image](Recycle-Triangle-Cloth-CC-Licensed-noncommercial-share-1024x675-1024x675.jpg)
+![Cover Image](![Image](https://github.com/user-attachments/assets/ed30c8ee-cfe6-4b5a-83a7-da89da4176cd))
 
 Welcome to **Gameee**, a solution where strategy matters as much as skill! 🕵️‍♂️💻\
 **Credit:** yogiatram26
