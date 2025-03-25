@@ -1,6 +1,6 @@
 # Gameee - Choose Your Fate
 
-![Cover Image](![Image](https://github.com/user-attachments/assets/ed30c8ee-cfe6-4b5a-83a7-da89da4176cd))
+![Image](https://github.com/user-attachments/assets/d5e36ca4-57da-4f1d-9256-506f41a39b9b)
 
 Welcome to **Gameee**, a solution where strategy matters as much as skill! 🕵️‍♂️💻\
 **Credit:** yogiatram26
